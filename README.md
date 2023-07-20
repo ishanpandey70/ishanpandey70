@@ -1,7 +1,16 @@
 # 💫 About Me:
+🔭 Open to work on new things and explore.
+\
 🌱 I’m currently learning Dev and AI/ML
+\
+😄 Would love to work on projects that impact the mass.
+\
+📫[Mail](mailto:ishanpandeycse@gmail.com)
+\
+🖇️[Resume](https://drive.google.com/drive/folders/1B9tNE3GZPlXbEpMDayFLJ8CdZ9HoKvhu)
 
 
+[![](https://visitcount.itsvg.in/api?id=ishanpandey70&icon=2&color=1)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishanpandey70) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-pandey-b534b1207) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18056517) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ishanpandey70) 
 
@@ -16,6 +25,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=ishanpandey70&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishanpandey70&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

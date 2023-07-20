@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ishanpandey70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishanpandey70" height="30" width="40" /></a>
+<a href="https://twitter.com/ishanpandey70" target="blank"><i class="fa-brands fa-twitter"></i></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ishan-pandey-b534b1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ishan-pandey-b534b1207" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18056517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18056517" height="30" width="40" /></a>
 <a href="https://kaggle.com/ishanpandey70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishanpandey70" height="30" width="40" /></a>
